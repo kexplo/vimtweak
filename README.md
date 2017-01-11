@@ -4,6 +4,12 @@
 
 This is a tweaking dll for GVim.
 
+
+## Build (MSVC 2015)
+
+run build.bat. if you want 64-bit dll, see https://msdn.microsoft.com/en-us/library/x4d2c09s.aspx
+
+
 ## Install
 
 copy vimtweak32.dll or vimtweak64.dll into same directory with gvim.exe
